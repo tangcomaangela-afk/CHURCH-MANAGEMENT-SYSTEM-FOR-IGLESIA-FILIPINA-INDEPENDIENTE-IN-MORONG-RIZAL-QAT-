@@ -1,0 +1,2 @@
+# CHURCH-MANAGEMENT-SYSTEM-FOR-IGLESIA-FILIPINA-INDEPENDIENTE-IN-MORONG-RIZAL-QAT-
+This section details QA results for the Iglesia Filipina Independiente Church Management System. By testing 71 core features—including records, sacraments, and finances—the team verified architectural stability. These findings confirm the system meets the 95% passing rate required for technical success and deployment.
